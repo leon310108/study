@@ -1,12 +1,11 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
+<%@ page language="java" contentType="text/html; charset=GBK"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<meta charset="GBK">
+<title>»¶Ó­</title>
 </head>
 <body>
-
+    »¶Ó­Ñ§Ï°Java WebÖªÊ¶
 </body>
 </html>
